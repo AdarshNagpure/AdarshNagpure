@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adarsh Nagpure</h1>
 <h3 align="center">A passionate Machine learning enthusiast from India</h3>
 
-<img align="right" alt="ai ml" width="400" src="https://res.cloudinary.com/dgofwp0my/images/q_100/f_auto,q_auto/w_650,h_366/v1505907556/dra_172_artifical_intelligence_change_energy_jynxp2/dra_172_artifical_intelligence_change_energy_jynxp2.gif">
+<img align="right" alt="ai ml" width="400" src="https://www.commercient.com/wp-content/uploads/2019/12/deepLearning.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshnagpure&label=Profile%20views&color=0e75b6&style=flat" alt="adarshnagpure" /> </p>
 
